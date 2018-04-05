@@ -19,5 +19,5 @@ end
 return room_assignments
 end
 
-def printer
+def printer(names)
 end
